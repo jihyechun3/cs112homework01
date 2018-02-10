@@ -4,7 +4,8 @@
  * Module : Module 2
  * Project : Chapter8/project #3
  * Problem Statement : 
- * Algorithm :
+ * Algorithm : This is my algorithm!
+ * Im Ji
  */
 package cs112hw2project3;
 
